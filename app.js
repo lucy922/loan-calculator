@@ -45,7 +45,7 @@ function calculateResults() {
 }
 
 function showError(error) {
-  // Hide results
+  // Hide~ results
   document.getElementById("results").style.display = "none";
 
   //Hide loader
